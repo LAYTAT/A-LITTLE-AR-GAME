@@ -8,3 +8,9 @@ The "Justice Killer" game is a third-person role-playing game based on a compute
 The "Justice Killer" game was developed using the Unity engine and was completed by a team of 2 people. The modeling resources of the 3D resources in the first level use the lowpoly environment from aigei to model the prefab and its characters. The AR system in the second level uses the Vuforia8 of the Unity platform and the enemy modeling from Maximo and the corresponding action animations. The production cost of the entire game product is mainly labor cost. The main reward is the learning of game design and the absorption of relevant experience.
 
 ## 3 Detailed Design is in tec doc
+## 4 A Few Pics
+![open world level 2](https://user-images.githubusercontent.com/23161882/137236661-6a0ad32e-b143-4f53-bd41-203a4acd8106.png)
+![open world level 3](https://user-images.githubusercontent.com/23161882/137236668-22b31a28-4e71-405e-bf64-02bcc6f2f8b6.png)
+![open world level](https://user-images.githubusercontent.com/23161882/137236678-63dee2f8-55c5-41c5-af22-03a9d1e51b93.png)
+![AR world level - 1](https://user-images.githubusercontent.com/23161882/137236683-81854517-6070-4e18-bee9-12acee2bc1ab.png)
+![AR world level - 2](https://user-images.githubusercontent.com/23161882/137236696-d61dbb72-35fb-4727-bb5c-dce091ff8591.jpg)
