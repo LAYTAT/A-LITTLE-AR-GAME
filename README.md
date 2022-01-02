@@ -12,7 +12,9 @@ To play the second level, which is accessible from the main menu, you need to pr
 ## 3 Technical summary
 The "Justice Killer" game was developed using the Unity engine and was completed by a team of 2 people. The modeling resources of the 3D resources in the first level use the lowpoly environment from aigei to model the prefab and its characters. The AR system in the second level uses the Vuforia8 of the Unity platform and the enemy modeling from Maximo and the corresponding action animations. The production cost of the entire game product is mainly labor cost. The main reward is the learning of game design and the absorption of relevant experience.
 
-## 4 Detailed Design is in tec doc
+## 4 Detailed Design
+In the tec doc.
+
 ## 5 A Few Pics
 ![open world level 2](https://user-images.githubusercontent.com/23161882/137236661-6a0ad32e-b143-4f53-bd41-203a4acd8106.png)
 ![open world level 3](https://user-images.githubusercontent.com/23161882/137236668-22b31a28-4e71-405e-bf64-02bcc6f2f8b6.png)
