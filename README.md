@@ -3,7 +3,7 @@
 
 The "Justice Killer" game is a third-person role-playing game based on a computer virtual world and an AR perspective. The protagonist of the game is a killer. In the game, when the killer's story begins, he is in a virtual world of ice and snow. In order to find a way to survive, he must find and deal with the evil enemies in the virtual world. In the first level, in addition to the hands and feet, the player can use the picked gun to design the enemy, and use these three attack methods to attack the enemy to get points. The player can enter the second level after dealing with the three enemies in the first level. There is only one BOSS in the second level, which is a cute evil mouse. The player's equipment will all fall at this time, and the player needs to rely on his own hands. Attack the rat boss with his potion and his own hands and feet. After defeating the rat, the player can successfully pass the level.
 
-## 4 How to run it ?
+## 2 How to run it ?
 Try the apk file on a android device, and the first level is a normal game where you can find hidden bad guys and take care of them.
 To play the second level, which is accessible from the main menu, you need to print out this poker pic to let the game map to be put onto it. A monster will show up, you will then know how to play.
 ![spade-J](https://user-images.githubusercontent.com/23161882/138030515-4440d957-8c55-4524-b82f-43479da85be3.jpg)
